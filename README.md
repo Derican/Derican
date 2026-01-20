@@ -35,7 +35,7 @@ When I’m not working on models or systems, I enjoy:
 💻 The Binding of Isaac, Mahjong Soul
 
 ---
-Reach me or my team through [personal email](derican112@outlook.com), [ffs_tech](ffs_tech@outlook.com) or [feal_tech](mailto:feal_tech@outlook.com).
+Reach me or my team through [personal email](mailto:derican112@outlook.com), [ffs_tech](mailto:ffs_tech@outlook.com) or [feal_tech](mailto:feal_tech@outlook.com).
 
 <!---
 Derican/Derican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
